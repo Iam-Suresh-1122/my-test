@@ -8,6 +8,7 @@ CIDR_BLOCK="10.0.0.0/16"
 VPC_NAME="MyVPC"
 SUBNET_CIDR="10.0.1.0/24"
 SUBNET_NAME="MySubnet"
+Password="suresh"
 
 # Authenticate to AWS CLI
 # Use aws configure if you have IAM credentials, or aws sso login for SSO profiles.
